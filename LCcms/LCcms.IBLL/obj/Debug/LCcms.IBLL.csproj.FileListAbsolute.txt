@@ -1,0 +1,4 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.IBLL\bin\Debug\LCcms.IBLL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.IBLL\bin\Debug\LCcms.IBLL.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.IBLL\obj\Debug\LCcms.IBLL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.IBLL\obj\Debug\LCcms.IBLL.pdb

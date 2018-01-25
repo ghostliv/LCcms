@@ -1,0 +1,4 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.Model\bin\Debug\LCcms.Model.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.Model\bin\Debug\LCcms.Model.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.Model\obj\Debug\LCcms.Model.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.Model\obj\Debug\LCcms.Model.pdb

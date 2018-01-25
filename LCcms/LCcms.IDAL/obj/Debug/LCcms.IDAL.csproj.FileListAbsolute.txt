@@ -1,0 +1,5 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.IDAL\bin\Debug\LCcms.IDAL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.IDAL\bin\Debug\LCcms.IDAL.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.IDAL\obj\Debug\LCcms.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\liv\Desktop\LC.cms\LCcms.IDAL\obj\Debug\LCcms.IDAL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.IDAL\obj\Debug\LCcms.IDAL.pdb

@@ -1,0 +1,4 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.MiddleTier\bin\Debug\LCcms.MiddleTier.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.MiddleTier\bin\Debug\LCcms.MiddleTier.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.MiddleTier\obj\Debug\LCcms.MiddleTier.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.MiddleTier\obj\Debug\LCcms.MiddleTier.pdb

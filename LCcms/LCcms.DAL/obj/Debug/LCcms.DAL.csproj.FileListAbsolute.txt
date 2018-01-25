@@ -1,0 +1,5 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.DAL\bin\Debug\LCcms.DAL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.DAL\bin\Debug\LCcms.DAL.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.DAL\obj\Debug\LCcms.DAL.csprojResolveAssemblyReference.cache
+C:\Users\liv\Desktop\LC.cms\LCcms.DAL\obj\Debug\LCcms.DAL.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.DAL\obj\Debug\LCcms.DAL.pdb

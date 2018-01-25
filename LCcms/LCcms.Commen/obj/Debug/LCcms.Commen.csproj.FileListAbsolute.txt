@@ -1,0 +1,4 @@
+C:\Users\liv\Desktop\LC.cms\LCcms.Commen\bin\Debug\LCcms.Commen.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.Commen\bin\Debug\LCcms.Commen.pdb
+C:\Users\liv\Desktop\LC.cms\LCcms.Commen\obj\Debug\LCcms.Commen.dll
+C:\Users\liv\Desktop\LC.cms\LCcms.Commen\obj\Debug\LCcms.Commen.pdb
